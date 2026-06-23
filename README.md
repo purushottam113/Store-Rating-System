@@ -1,4 +1,4 @@
-# Roxiler Store Rating App
+# Store Rating App
 
 This is my full stack project. In this project users can rate stores and store owners can see the ratings.
 
